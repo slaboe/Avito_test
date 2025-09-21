@@ -1,0 +1,17 @@
+# Модели
+*.pt
+checkpoints/
+
+# Датасеты
+data/train.csv
+data/val.csv
+data/test.csv
+
+# Виртуальная среда
+venv/
+.env
+
+# Python кэш
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
