@@ -82,8 +82,8 @@
 ### 5. Установка зависимостей: pip install -r requirements.txt
 ### 6. Добавление данных и моделей
 Модели и большие датасеты не включены в репозиторий.
-Скачайте их отдельно (например, через Google Drive) и положите в соответствующие папки проекта.
-
+Скачайте их отдельно  и положите в соответствующие папки проекта. 
+https://drive.google.com/drive/folders/1cH-fF1pqvAZsiAcxE-IMqTmcyqpCKShq?usp=sharing
 data/ — для CSV с train/val/test выборками
 
 checkpoints/ — для сохранённых моделей
